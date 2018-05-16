@@ -1,0 +1,9 @@
+{
+  "name": "nodegun",
+  "version": "0.1.0",
+  "description": "nodegun",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/nodegun.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT"
+}
